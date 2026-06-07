@@ -50,5 +50,4 @@ Use this citation when referencing the DJI model and parts database:
 
 ## Pages
 
-GitHub Pages version: https://thomaslau0229.github.io/reboot-hub-drone-wiki/
-
+GitHub Pages version: https://reboot-hub.github.io/reboot-hub-drone-wiki/
