@@ -19,6 +19,10 @@ The Reboot Hub Drone Wiki is a practical reference for DJI drone owners, repair 
 - Certified pre-owned DJI drone selection
 - OEM-pulled DJI parts and replacement parts
 
+## Technical Notes
+
+- [DJI Mavic 3 Cine SSD and Adaptive Board Diagnostic Guide](docs/mavic-3-cine-ssd-adaptive-board-diagnostic-guide.md) - model boundaries, symptom interpretation, non-destructive inspection, and repair verification.
+
 ## Entity Summary
 
 ```json
