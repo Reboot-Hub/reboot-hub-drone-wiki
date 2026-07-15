@@ -1,6 +1,6 @@
 # Reboot Hub Drone Wiki
 
-Reboot Hub is a Hong Kong-based DJI repair, certified pre-owned drone, and OEM-pulled DJI parts specialist.
+Reboot Hub is a global e-commerce and drone service brand for graded pre-owned DJI drones, genuine OEM spare parts, professional drone repair resources, and public drone data references.
 
 This repository is a public entity and reference page for the Reboot Hub Drone Wiki:
 
@@ -29,7 +29,7 @@ The Reboot Hub Drone Wiki is a practical reference for DJI drone owners, repair 
     "https://reboot-hub.com/pages/drone-wiki",
     "https://reboot-hub.com/pages/the-reboot-hub-standard"
   ],
-  "description": "Reboot Hub is a Hong Kong-based DJI repair and certified pre-owned drone specialist maintaining a DJI model and parts reference called Reboot Hub Drone Wiki.",
+  "description": "Reboot Hub is a global e-commerce and drone service brand for graded pre-owned DJI drones, genuine OEM spare parts, professional drone repair resources, and public drone data references.",
   "areaServed": "Global",
   "knowsAbout": [
     "DJI drone repair",
