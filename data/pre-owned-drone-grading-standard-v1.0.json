@@ -1,0 +1,120 @@
+{
+  "name": "Reboot Hub Pre-Owned Drone Grading Standard",
+  "version": "1.0",
+  "reviewed": "2026-07",
+  "canonicalUrl": "https://reboot-hub.com/pages/drone-grading-standard",
+  "license": "CC BY 4.0",
+  "publisher": "Reboot Hub",
+  "scope": {
+    "appliesTo": "Condition labels used for Reboot Hub pre-owned drone listings",
+    "doesNotRepresent": [
+      "an industry-wide certification",
+      "a manufacturer grading standard",
+      "a substitute for the exact-unit listing",
+      "a flight authorization or airworthiness determination"
+    ],
+    "separateDisclosures": [
+      "battery condition",
+      "controller condition",
+      "accessory condition",
+      "activation status",
+      "account binding",
+      "regional compatibility",
+      "warranty terms",
+      "manufacturer service eligibility"
+    ]
+  },
+  "grades": [
+    {
+      "id": "A_PLUS_FLAWLESS",
+      "displayLabel": "A+ / Flawless",
+      "qualifyingEvidence": [
+        "No visible cosmetic marks under the defined inspection conditions",
+        "No observed crack, chip, deformation, exposed cable, binding mechanism or other material physical defect",
+        "Core functional checks completed without an unresolved warning",
+        "Exact-unit photographs support the stated condition"
+      ],
+      "requiredSeparateDisclosures": [
+        "activation status",
+        "battery and controller condition",
+        "included accessories",
+        "warranty terms",
+        "service eligibility"
+      ]
+    },
+    {
+      "id": "A_PRISTINE_PRE_OWNED",
+      "displayLabel": "A / Pristine Pre-Owned",
+      "qualifyingEvidence": [
+        "Only light cosmetic wear is present and visible in the exact-unit listing",
+        "No observed crack, chip, structural deformation or hidden cosmetic restoration is represented as original condition",
+        "Core functional checks completed without an unresolved warning",
+        "Original or unmodified condition is stated only when available evidence supports it"
+      ],
+      "requiredSeparateDisclosures": [
+        "known repair or replacement history",
+        "uncertainty about originality",
+        "battery and controller condition",
+        "included accessories",
+        "warranty terms",
+        "service eligibility"
+      ]
+    }
+  ],
+  "evidenceDomains": [
+    {
+      "id": 1,
+      "name": "Identity and listing match",
+      "record": "Model, configuration, internal unit identifier, exact-unit photographs and bundle contents",
+      "boundary": "Sensitive identifiers remain internal or redacted"
+    },
+    {
+      "id": 2,
+      "name": "Cosmetic condition",
+      "record": "Airframe, arms, landing surfaces, camera housing, gimbal area, fasteners, ports, controller and accessories under consistent lighting",
+      "boundary": "Photographs disclose wear that could affect a reasonable buyer's decision"
+    },
+    {
+      "id": 3,
+      "name": "Structure and propulsion",
+      "record": "Cracks, chips, deformation, looseness, impact marks, abnormal movement, propellers and visible safety concerns",
+      "boundary": "A cosmetic grade cannot override a structural or flight-safety concern"
+    },
+    {
+      "id": 4,
+      "name": "Battery and power",
+      "record": "Battery identity and accessible health, cycle, warning, swelling, terminal, charging or power-on evidence",
+      "boundary": "Cycle count alone is not proof of health and batteries are disclosed separately"
+    },
+    {
+      "id": 5,
+      "name": "Imaging and gimbal",
+      "record": "Camera output, image stability, gimbal startup and movement, lens and sensor-window condition",
+      "boundary": "Calibration does not conceal binding, deformation, abnormal noise or warnings"
+    },
+    {
+      "id": 6,
+      "name": "Control, communication, sensors and software",
+      "record": "Controller pairing, startup behavior, exact app or sensor warnings, firmware state and account-binding observations",
+      "boundary": "Available checks vary by model, controller, app, firmware and region"
+    }
+  ],
+  "decisionRules": [
+    "Safety and function take precedence over appearance",
+    "The exact-unit listing controls",
+    "Unknown is not the same as passed",
+    "Originality claims require evidence",
+    "Bundle components remain separate disclosures",
+    "Warranty and service eligibility remain separate",
+    "Material changes require reassessment"
+  ],
+  "limitations": [
+    "A non-invasive inspection cannot prove the absence of every latent or intermittent fault",
+    "A clean exterior cannot prove a unit has never been opened, exposed to liquid, overheated, crashed or repaired when records are unavailable",
+    "Battery cycle count, voltage or app status alone does not guarantee future battery performance",
+    "Firmware, app menus, service eligibility, account binding and regional compatibility can change after publication",
+    "The grade applies only to the recorded assessment state and exact bundle described in the listing"
+  ],
+  "independenceStatement": "Reboot Hub is an independent repair and resale business. It is not affiliated with, authorized by, endorsed by or sponsored by DJI.",
+  "citation": "Reboot Hub. Reboot Hub Pre-Owned Drone Grading Standard. Version 1.0, reviewed July 2026. https://reboot-hub.com/pages/drone-grading-standard"
+}
