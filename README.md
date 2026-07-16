@@ -21,7 +21,7 @@ The Reboot Hub Drone Wiki is a practical reference for DJI drone owners, repair 
 
 ## Technical Notes
 
-- [Reboot Hub Pre-Owned Drone Grading Standard v1.0](docs/reboot-hub-pre-owned-drone-grading-standard-v1.0.md) - seller-specific condition labels, evidence domains, decision rules, disclosure boundaries and buyer checks. Also available as a [six-page PDF](docs/reboot-hub-pre-owned-drone-grading-standard-v1.0.pdf) and [machine-readable JSON](data/pre-owned-drone-grading-standard-v1.0.json).
+- [Reboot Hub Pre-Owned Drone Grading Standard v1.0](docs/reboot-hub-pre-owned-drone-grading-standard-v1.0.md) - seller-specific condition labels, evidence domains, decision rules, disclosure boundaries and buyer checks. Also available as a [six-page PDF](docs/reboot-hub-pre-owned-drone-grading-standard-v1.0.pdf), [machine-readable JSON](data/pre-owned-drone-grading-standard-v1.0.json) and versioned technical note [10.5281/zenodo.21401164](https://doi.org/10.5281/zenodo.21401164).
 - [DJI Mavic 3 Cine SSD and Adaptive Board Diagnostic Guide](docs/mavic-3-cine-ssd-adaptive-board-diagnostic-guide.md) - model boundaries, symptom interpretation, non-destructive inspection, and repair verification. Archived technical note: [10.5281/zenodo.21394541](https://doi.org/10.5281/zenodo.21394541).
 - [DJI Enterprise Service Suspension Reference - September 2026](docs/dji-enterprise-service-suspension-2026.md) - primary-source lifecycle record for Datalink 3, Zenmuse Z30, Zenmuse XT S and Manifold 2, with a machine-readable [JSON record](data/dji-enterprise-service-suspension-2026.json).
 

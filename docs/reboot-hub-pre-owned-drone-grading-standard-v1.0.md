@@ -4,6 +4,8 @@ Version 1.0 | Reviewed July 2026
 
 Canonical source: https://reboot-hub.com/pages/drone-grading-standard
 
+DOI: https://doi.org/10.5281/zenodo.21401164
+
 ## Purpose and scope
 
 This document defines the condition labels Reboot Hub uses for its own pre-owned drone listings. It is a seller-specific disclosure framework, not an industry-wide certification, a manufacturer standard, or a substitute for the exact product listing.
@@ -112,7 +114,7 @@ Reboot Hub is an independent repair and resale business. It is not affiliated wi
 
 Suggested citation:
 
-Reboot Hub. "Reboot Hub Pre-Owned Drone Grading Standard." Version 1.0, reviewed July 2026. https://reboot-hub.com/pages/drone-grading-standard
+Reboot Hub. "Reboot Hub Pre-Owned Drone Grading Standard." Version 1.0, reviewed July 2026. https://doi.org/10.5281/zenodo.21401164
 
 This document is released under CC BY 4.0. Reuse is permitted with attribution to Reboot Hub and a link to the canonical source. The license applies to this document's original text and structure, not to third-party trademarks or materials.
 
@@ -122,4 +124,3 @@ Related references:
 - Used DJI buying checklist: https://reboot-hub.com/blogs/drone-guides/used-dji-mavic-3-buying-repair-risk-checklist
 - Reboot Hub Data: https://reboot-hub.com/pages/reboot-hub-data
 - Drone Wiki: https://reboot-hub.com/pages/drone-wiki
-

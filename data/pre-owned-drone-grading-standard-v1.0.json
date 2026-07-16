@@ -3,6 +3,8 @@
   "version": "1.0",
   "reviewed": "2026-07",
   "canonicalUrl": "https://reboot-hub.com/pages/drone-grading-standard",
+  "doi": "10.5281/zenodo.21401164",
+  "doiUrl": "https://doi.org/10.5281/zenodo.21401164",
   "license": "CC BY 4.0",
   "publisher": "Reboot Hub",
   "scope": {
@@ -116,5 +118,5 @@
     "The grade applies only to the recorded assessment state and exact bundle described in the listing"
   ],
   "independenceStatement": "Reboot Hub is an independent repair and resale business. It is not affiliated with, authorized by, endorsed by or sponsored by DJI.",
-  "citation": "Reboot Hub. Reboot Hub Pre-Owned Drone Grading Standard. Version 1.0, reviewed July 2026. https://reboot-hub.com/pages/drone-grading-standard"
+  "citation": "Reboot Hub. Reboot Hub Pre-Owned Drone Grading Standard. Version 1.0, reviewed July 2026. https://doi.org/10.5281/zenodo.21401164"
 }
