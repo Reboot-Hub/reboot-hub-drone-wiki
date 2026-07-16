@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "title": "DJI Enterprise Service Suspension Reference - September 2026",
+  "publisher": "Reboot Hub Editorial",
+  "reviewed_at": "2026-07-16",
+  "canonical_url": "https://reboot-hub.com/blogs/industry-hotspot-analysis/dji-ends-support-for-four-older-enterprise-products-in-september-2026",
+  "primary_source": {
+    "publisher": "DJI",
+    "title": "Notice of Suspension of Service and Support for Old Product Series",
+    "url": "https://repair.dji.com/help/content?customId=01700007185&documentType=&lang=en&paperDocType=ARTICLE&re=US&spaceId=17"
+  },
+  "service_suspension_date": "2026-09-01",
+  "confirmed_post_suspension_scope": [
+    "product inquiries",
+    "technical support",
+    "product maintenance"
+  ],
+  "products": [
+    {
+      "name": "Datalink 3",
+      "production_suspension": "2021-04",
+      "service_suspension": "2026-09-01",
+      "role": "data-link and remote-control product",
+      "role_source": "https://www.dji.com/datalink-3/info"
+    },
+    {
+      "name": "Zenmuse Z30",
+      "production_suspension": "2021-05",
+      "service_suspension": "2026-09-01",
+      "role": "industrial zoom camera with 30x optical zoom",
+      "role_source": "https://www.dji.com/support/product/zenmuse-z30"
+    },
+    {
+      "name": "Zenmuse XT S",
+      "production_suspension": "2021-05",
+      "service_suspension": "2026-09-01",
+      "role": "thermal imaging camera for Matrice 200 Series and Matrice 200 Series V2 platforms",
+      "role_source": "https://www.dji.com/global/media-center/announcements/dji-introduces-the-zenmuse-xt-s"
+    },
+    {
+      "name": "Manifold 2",
+      "production_suspension": "2021-09",
+      "service_suspension": "2026-09-01",
+      "role": "onboard computing platform",
+      "role_source": "https://www.dji.com/manifold-2/downloads"
+    }
+  ],
+  "not_established_by_primary_notice": [
+    "automatic flight prohibition",
+    "product-by-product future firmware policy",
+    "every regional warranty result",
+    "remaining parts inventory",
+    "third-party service availability",
+    "resale-value change",
+    "mandatory replacement model"
+  ],
+  "independence_statement": "Reboot Hub is independent and is not affiliated with DJI."
+}

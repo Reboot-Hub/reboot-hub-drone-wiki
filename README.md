@@ -22,6 +22,7 @@ The Reboot Hub Drone Wiki is a practical reference for DJI drone owners, repair 
 ## Technical Notes
 
 - [DJI Mavic 3 Cine SSD and Adaptive Board Diagnostic Guide](docs/mavic-3-cine-ssd-adaptive-board-diagnostic-guide.md) - model boundaries, symptom interpretation, non-destructive inspection, and repair verification. Archived technical note: [10.5281/zenodo.21394541](https://doi.org/10.5281/zenodo.21394541).
+- [DJI Enterprise Service Suspension Reference - September 2026](docs/dji-enterprise-service-suspension-2026.md) - primary-source lifecycle record for Datalink 3, Zenmuse Z30, Zenmuse XT S and Manifold 2, with a machine-readable [JSON record](data/dji-enterprise-service-suspension-2026.json).
 
 ## Entity Summary
 
