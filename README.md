@@ -21,7 +21,7 @@ The Reboot Hub Drone Wiki is a practical reference for DJI drone owners, repair 
 
 ## Technical Notes
 
-- [DJI Mavic 3 Cine SSD and Adaptive Board Diagnostic Guide](docs/mavic-3-cine-ssd-adaptive-board-diagnostic-guide.md) - model boundaries, symptom interpretation, non-destructive inspection, and repair verification.
+- [DJI Mavic 3 Cine SSD and Adaptive Board Diagnostic Guide](docs/mavic-3-cine-ssd-adaptive-board-diagnostic-guide.md) - model boundaries, symptom interpretation, non-destructive inspection, and repair verification. Archived technical note: [10.5281/zenodo.21394541](https://doi.org/10.5281/zenodo.21394541).
 
 ## Entity Summary
 

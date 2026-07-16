@@ -1,6 +1,7 @@
 # DJI Mavic 3 Cine SSD and Adaptive Board Diagnostic Guide
 
 - **Canonical guide:** [Reboot Hub Drone Wiki](https://reboot-hub.com/pages/wiki-dji-mavic-3-cine-ssd-adaptive-board-module)
+- **Archived technical note:** [DOI 10.5281/zenodo.21394541](https://doi.org/10.5281/zenodo.21394541)
 - **Scope:** Original DJI Mavic 3 Cine
 - **Last reviewed:** July 16, 2026
 
@@ -74,6 +75,6 @@ This note does not identify a failed board from a warning alone. It does not pub
 
 ## Suggested citation
 
-> Reboot Hub. "DJI Mavic 3 Cine SSD and Adaptive Board: Compatibility, Symptoms, Inspection and Repair Guide." Reboot Hub Drone Wiki. Last reviewed July 16, 2026. https://reboot-hub.com/pages/wiki-dji-mavic-3-cine-ssd-adaptive-board-module
+> Reboot Hub. "DJI Mavic 3 Cine SSD and Adaptive Board: Compatibility, Symptoms, Inspection and Repair Guide." Reboot Hub Drone Wiki. Version 1.0. DOI: https://doi.org/10.5281/zenodo.21394541. Maintained canonical: https://reboot-hub.com/pages/wiki-dji-mavic-3-cine-ssd-adaptive-board-module
 
 Reboot Hub is an independent drone lifecycle company and is not affiliated with DJI. Product and company names are used only for identification and compatibility context.
