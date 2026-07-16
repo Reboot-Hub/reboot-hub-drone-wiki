@@ -10,23 +10,45 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "Reboot Hub",
-    "url": "https://reboot-hub.com/",
-    "description": "Reboot Hub is a global e-commerce and drone service brand for graded pre-owned DJI drones, genuine OEM spare parts, professional drone repair resources, and public drone data references.",
-    "areaServed": "Global",
-    "sameAs": [
-      "https://reboot-hub.com/pages/drone-wiki",
-      "https://reboot-hub.com/pages/the-reboot-hub-standard",
-      "https://reboot-hub.com/collections/all"
-    ],
-    "knowsAbout": [
-      "DJI drone repair",
-      "certified pre-owned DJI drones",
-      "DJI drone parts",
-      "OEM-pulled DJI parts",
-      "DJI model identification",
-      "drone inspection standards"
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://reboot-hub.com/#organization",
+        "name": "Reboot Hub",
+        "url": "https://reboot-hub.com/",
+        "description": "Reboot Hub is a global e-commerce and drone service brand for graded pre-owned DJI drones, genuine OEM spare parts, professional drone repair resources, and public drone data references.",
+        "areaServed": "Global",
+        "sameAs": [
+          "https://www.instagram.com/_reboothub_/",
+          "https://www.youtube.com/channel/UCdrgiz4KJ4MlCkucBgP6uFQ",
+          "https://www.youtube.com/@officialreboothub",
+          "https://www.facebook.com/officialreboothub",
+          "https://x.com/Reboot_hub_",
+          "https://github.com/Reboot-Hub",
+          "https://www.trustpilot.com/review/reboot-hub.com",
+          "https://www.crunchbase.com/organization/reboot-hub",
+          "https://www.linkedin.com/company/reboot-hub-global"
+        ],
+        "knowsAbout": [
+          "DJI drone repair",
+          "certified pre-owned DJI drones",
+          "DJI drone parts",
+          "OEM-pulled DJI parts",
+          "DJI model identification",
+          "drone inspection standards"
+        ]
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://reboot-hub.github.io/reboot-hub-drone-wiki/#webpage",
+        "url": "https://reboot-hub.github.io/reboot-hub-drone-wiki/",
+        "name": "Reboot Hub Drone Wiki | DJI Repair and Parts Reference",
+        "description": "A global public reference for DJI models, parts, repair context, and certified pre-owned drone research maintained by Reboot Hub.",
+        "inLanguage": "en",
+        "about": {"@id": "https://reboot-hub.com/#organization"},
+        "publisher": {"@id": "https://reboot-hub.com/#organization"},
+        "sameAs": "https://reboot-hub.com/pages/drone-wiki"
+      }
     ]
   }
   </script>
